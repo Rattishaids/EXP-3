@@ -1,7 +1,7 @@
 ## EXP NO: 3 STAIR CASE WIRING
 
-# DEVELOPED BY: Vinolia Alaina .R
-# REGISTER NUMBER: 212224240184
+# DEVELOPED BY: RATTISH KUMAR SS
+# REGISTER NUMBER: 212224230223
 
 ## Aim:
 To wire for a stair case arrangement using a two-way switch.
